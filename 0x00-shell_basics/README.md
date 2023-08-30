@@ -1,1 +1,1 @@
-displaying list content of 1-listit
+A script that changes the working directory to users home directory
