@@ -1,1 +1,1 @@
-files beginnning with anuppercse letter
+A script thst deletes all files int he working directory
