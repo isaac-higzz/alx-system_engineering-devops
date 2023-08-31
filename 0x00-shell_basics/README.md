@@ -1,1 +1,1 @@
-moving betty files
+a script that prints the named filed
