@@ -1,1 +1,1 @@
-delete betty
+symbolic links
